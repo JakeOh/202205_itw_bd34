@@ -1,1 +1,1 @@
-# 202205_itw_bd34
+# ITWILL Big Data 34기 Python Mahcine Learning
